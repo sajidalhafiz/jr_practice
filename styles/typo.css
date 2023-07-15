@@ -1,0 +1,14 @@
+h1,h2 {
+    margin-bottom: 0;
+    background: linear-gradient(180deg, #730040 0%, #301CBE 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+span {
+    background: linear-gradient(180deg, #FFD7FF 0%, #FFB6FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
